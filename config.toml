@@ -3,7 +3,7 @@ languageCode = 'fr-fr'
 title = 'Un site responsable !'
 themesDir = "themes"
 theme = "serif"
-
+#toto
 [module]
   [module.hugoVersion]
     extended = true
