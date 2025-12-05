@@ -1,13 +1,11 @@
 ---
-title: "Business Advisory"
+title: "Sensibilisation"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 weight: 2
-summary: "Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses."
+summary: "Je propose l’animation de la Fresque du Climat, un atelier scientifique et pédagogique permettant aux équipes d’approfondir leur compréhension du dérèglement climatique et d’identifier des leviers d’action."
 ---
-
-Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses. Through financial management, risk assessment, and performance improvement, this service provides businesses with the necessary tools and insights to optimize their operations and drive success.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

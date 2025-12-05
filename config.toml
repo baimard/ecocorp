@@ -21,9 +21,9 @@ theme = "serif"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo-ecocorp.png"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/logo-ecocorp.png"
     desktop_height = "36px"
     alt = "Serif - A Hugo Business Theme"
 
