@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
+meta_title: 'ECOCORP'
 description: "Serif is a modern business theme for Hugo."
 intro_image: "images/illustrations/esg.png"
 intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
