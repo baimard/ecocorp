@@ -6,14 +6,14 @@
     <description>Recent content in Services on Un site responsable !</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bilan carbone</title>
-      <link>http://localhost:1313/services/bilan-carbone/</link>
+      <title>Stratégie RSE</title>
+      <link>http://localhost:1313/services/strat%C3%A9gie/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/bilan-carbone/</guid>
-      <description>&lt;p&gt;Je propose un accompagnement pour la réalisation d&amp;rsquo;un bilan carbone et le pilotage d&amp;rsquo;un plan d&amp;rsquo;action de décarbonation.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/strat%C3%A9gie/</guid>
+      <description>&lt;p&gt;Accompagnement à chaque étape : de l’identification des priorités à la mise en œuvre d’actions concrètes, en passant par la mobilisation des équipes et la valorisation des résultats. L’objectif est de faire de la RSE un véritable levier de performance, de cohésion et d’impact positif pour l’entreprise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sensibilisation</title>
@@ -23,32 +23,11 @@
       <description>Je propose l’animation de la Fresque du Climat, un atelier scientifique et pédagogique permettant aux équipes d’approfondir leur compréhension du dérèglement climatique et d’identifier des leviers d’action.</description>
     </item>
     <item>
-      <title>Business Sales</title>
-      <link>http://localhost:1313/services/business-sales/</link>
+      <title>Bilan carbone</title>
+      <link>http://localhost:1313/services/bilan-carbone/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      <guid>http://localhost:1313/services/business-sales/</guid>
-      <description>&lt;p&gt;Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mergers</title>
-      <link>http://localhost:1313/services/mergers/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>http://localhost:1313/services/mergers/</guid>
-      <description>&lt;p&gt;Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Superannuation</title>
-      <link>http://localhost:1313/services/superannuation/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      <guid>http://localhost:1313/services/superannuation/</guid>
-      <description>&lt;p&gt;We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tax Preparation</title>
-      <link>http://localhost:1313/services/tax-preperation/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/tax-preperation/</guid>
-      <description>Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations.</description>
+      <guid>http://localhost:1313/services/bilan-carbone/</guid>
+      <description>&lt;p&gt;Accompagnement dans la réalisation d&amp;rsquo;un bilan carbone et dans le pilotage d&amp;rsquo;un plan d&amp;rsquo;action de décarbonation.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

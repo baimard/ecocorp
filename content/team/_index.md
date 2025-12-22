@@ -1,6 +1,6 @@
 ---
-title: 'Team'
-intro_image: "images/illustrations/logo-ecocorp.png"
+title: ''
+intro_image: "images/illustrations/team.jpg"
 intro_image_absolute: true
 intro_image_absolute_offset: "auto auto -148px -102px"
 intro_image_hide_on_mobile: false

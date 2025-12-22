@@ -1,15 +1,13 @@
 ---
-title: "Business Sales"
-date: 2018-11-28T15:15:26+10:00
-featured: true
+title: "Stratégie RSE"
+date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 3
+featured: true
+weight: 1
 ---
 
-Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.
+Accompagnement à chaque étape : de l’identification des priorités à la mise en œuvre d’actions concrètes, en passant par la mobilisation des équipes et la valorisation des résultats. L’objectif est de faire de la RSE un véritable levier de performance, de cohésion et d’impact positif pour l’entreprise. 
 <!--more-->
-It entails various activities such as valuing the business, identifying potential buyers, negotiating the terms of the sale, conducting due diligence, and finalizing the transaction.
-
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

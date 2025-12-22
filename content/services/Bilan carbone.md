@@ -1,13 +1,15 @@
 ---
-title: "Mergers"
-date: 2018-11-28T15:15:34+10:00
+title: "Bilan carbone"
+date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
-weight: 4
+weight: 3
 ---
 
-Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.
+Accompagnement dans la réalisation d'un bilan carbone et dans le pilotage d'un plan d'action de décarbonation.
 <!--more-->
+It entails various activities such as valuing the business, identifying potential buyers, negotiating the terms of the sale, conducting due diligence, and finalizing the transaction.
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

@@ -21,10 +21,10 @@ theme = "serif"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-ecocorp.png"
-    mobile_height = "36px"
-    desktop = "images/logo/logo-ecocorp.png"
-    desktop_height = "36px"
+    mobile = "images/logo/logo-sans-fond.png"
+    mobile_height = "90px"
+    desktop = "images/logo/logo-sans-fond.png"
+    desktop_height = "90px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.fonts]
@@ -34,8 +34,8 @@ theme = "serif"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
-    black = "#2f2f41"
+    primary = "#876a57"
+    black = "#595959"
     white = "#ffffff"
     white_offset = "#f6f7ff"
     grey = "#5C5A5A"
@@ -49,10 +49,8 @@ theme = "serif"
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
 
   [params.team]
-    summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
+    summary_large_truncate = 550 # How many characters to include in the summary of the team bios (large layout) before truncating
 
-  [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 [menu]
   # Main Menu
@@ -66,12 +64,7 @@ theme = "serif"
     url = "/team/"
     weight = 2
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-  [[menu.main]]
+    [[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 4
