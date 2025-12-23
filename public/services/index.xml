@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Un site responsable !</title>
+    <title>Services on ECOCORP</title>
     <link>http://localhost:1313/services/</link>
-    <description>Recent content in Services on Un site responsable !</description>
+    <description>Recent content in Services on ECOCORP</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate>
@@ -20,14 +20,14 @@
       <link>http://localhost:1313/services/sensibilisation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       <guid>http://localhost:1313/services/sensibilisation/</guid>
-      <description>Je propose l’animation de la Fresque du Climat, un atelier scientifique et pédagogique permettant aux équipes d’approfondir leur compréhension du dérèglement climatique et d’identifier des leviers d’action.</description>
+      <description>Avant toute action concrète, comprendre les enjeux environnementaux et climatiques est indispensable. La sensibilisation n’est pas une simple information: c’est un levier stratégique qui permet de mobiliser et d’engager vos équipes autour de votre démarche RSE.</description>
     </item>
     <item>
       <title>Bilan carbone</title>
       <link>http://localhost:1313/services/bilan-carbone/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       <guid>http://localhost:1313/services/bilan-carbone/</guid>
-      <description>&lt;p&gt;Accompagnement dans la réalisation d&amp;rsquo;un bilan carbone et dans le pilotage d&amp;rsquo;un plan d&amp;rsquo;action de décarbonation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Un accompagnement clair et adapté à votre réalité, avec une approche pédagogique, rigoureuse et adaptée à votre structure, quelle que soit sa taille ou son secteur d’activité.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

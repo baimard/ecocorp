@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*!
    * Bootstrap Reboot v5.3.0 (https://getbootstrap.com/)
    * Copyright 2011-2023 The Bootstrap Authors
@@ -13100,7 +13101,8 @@ ol {
   line-height: 1.2; }
   @media (min-width: 992px) {
     .title {
-      font-size: 50px; } }
+      font-size: 50px;
+      margin-top: -30px; } }
 .content a {
   text-decoration: underline; }
 
@@ -13238,25 +13240,16 @@ ol {
   margin-top: -40px; }
 
 .intro-image-absolute {
-  max-width: none;
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin-left: 70px;
+  margin-top: -100px;
   padding: 0;
   margin-bottom: 30px; }
-  @media (min-width: 768px) {
-    .intro-image-absolute {
-      position: absolute;
-      bottom: -50px;
-      left: -50px;
-      width: 700px; } }
-  @media (min-width: 992px) {
-    .intro-image-absolute {
-      bottom: -60px;
-      left: -60px;
-      width: 800px; } }
-  @media (min-width: 1300px) {
-    .intro-image-absolute {
-      bottom: -100px;
-      left: -70px;
-      width: 850px; } }
+
+/* Affichage uniquement à partir de md */
 .intro-image-hide-mobile {
   display: none; }
   @media (min-width: 768px) {

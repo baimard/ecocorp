@@ -4,78 +4,49 @@ date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 weight: 2
-summary: "Je propose l’animation de la Fresque du Climat, un atelier scientifique et pédagogique permettant aux équipes d’approfondir leur compréhension du dérèglement climatique et d’identifier des leviers d’action."
+summary: "Avant toute action concrète, comprendre les enjeux environnementaux et climatiques est indispensable. La sensibilisation n’est pas une simple information: c’est un levier stratégique qui permet de mobiliser et d’engager vos équipes autour de votre démarche RSE."
 ---
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+<!--![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)-->
 
-# Objectives 
+Avant toute action concrète, comprendre les enjeux environnementaux et climatiques est indispensable. La sensibilisation n’est pas une simple information : c’est un levier stratégique qui permet de mobiliser et d’engager vos équipes autour de votre démarche RSE.
 
-Financial accounting and financial reporting are often used as synonyms.
+# Sensibilisation : une étape clé
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Elle joue un rôle crucial :
 
-## Relevance
+- Créer une conscience partagée : chaque collaborateur comprend l’impact de ses actions et l’importance de réduire les émissions de gaz à effet de serre.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+- Motiver et impliquer : des équipes sensibilisées sont plus enclines à participer activement aux initiatives RSE et à adopter de nouvelles pratiques.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+- Structurer la démarche : la sensibilisation est la première étape primordiale avant la mise en place d’actions concrètes comme le bilan carbone, les politiques d’achats responsables ou la réduction des déchets.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+En d’autres termes, sensibiliser, c’est poser les fondations solides d’une stratégie RSE réussie, en transformant la connaissance en engagement durable.
 
-## Faithful Representation
+# Ateliers participatifs : apprendre en s’amusant
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Les ateliers que j’anime sont conçus pour transformer la sensibilisation en expérience concrète et engageante. Ils permettent aux participants de comprendre les enjeux climatiques et environnementaux de manière active, en s’appuyant sur la collaboration et l’échange.
 
-## Enhancing Qualitative Characteristics
+La Fresque du Climat : un outil phare
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Parmi les ateliers proposés, la Fresque du Climat est particulièrement efficace :
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+- Ludique et interactif : les participants construisent ensemble une fresque qui illustre les causes et conséquences du changement climatique.
 
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- Basé sur des données scientifiques fiables : chaque élément de la fresque repose sur les rapports du GIEC et des sources reconnues, garantissant une compréhension juste des enjeux.
 
----
+- Visuel et collaboratif : la mise en image des liens entre les facteurs climatiques facilite la compréhension et favorise la discussion entre participants.
 
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Résultat : les participants repartent avec une vision globale des problématiques climatiques et une meilleure compréhension de leurs impacts directs et indirects.
 
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
+# Pourquoi ces ateliers sont essentiels ?
 
+Les ateliers participatifs sont plus qu’une simple activité : ils sont un levier stratégique pour votre engagement RSE. Ils permettent de :
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+- Impliquer et fédérer vos équipes,
 
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
+- Passer de la sensibilisation à l’action concrète,
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+- Créer une dynamique durable au sein de votre organisation.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+En somme, ils transforment la connaissance en engagement réel, et donnent aux participants les moyens de contribuer activement à la transition écologique.

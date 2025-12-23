@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Un site responsable !</title>
+    <title>ECOCORP</title>
     <link>http://localhost:1313/team/</link>
-    <description>Recent content on Un site responsable !</description>
+    <description>Recent content on ECOCORP</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
